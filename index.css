@@ -173,11 +173,12 @@ header a:hover{
 
 #app {
     color: white;
+    background-color: rgb(17,75,95);
     text-align: center;
 }
 
 #app .container{
-    background-color: rgb(17,75,95);
+
     padding: 100px 0px;
 }
 
