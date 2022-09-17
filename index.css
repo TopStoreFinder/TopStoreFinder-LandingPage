@@ -26,7 +26,7 @@ button{
     border: 1px solid rgba(0,0,0,0.5);
     box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
     color: black;
-    background-color: aqua;
+    background-color: rgb(243,233,210);
 }
 
 button:hover{
@@ -38,17 +38,19 @@ button:hover{
     margin: auto;
 }
 
-.color-acento{color: aqua;}
+.color-acento{
+    font-size: 1.3em;
+    color: rgb(243,233,210);}
 
 header{
-    background-color: rgb(245, 245, 245);
+    background-color: rgb(36, 99,85);
 }
 
 header .logo{
     margin: 0;
     padding: 25px 30px;
     font-weight: bold;
-    color: aqua;
+    color: rgb(243,233,210);
     font-size: 3em;
 }
 
@@ -70,7 +72,7 @@ header a{
     padding: 5px 12px;
     text-decoration: none;
     font-weight: bold;
-    color: black;
+    color: rgb(243,233,210);
 }
 
 header a:hover{
@@ -104,14 +106,20 @@ header a:hover{
     font-size: 1.75em;
 }
 
+#nosotros-topstore-finder{
+    background-color: rgb(17,75,95);
+}
+
+
 #nosotros-topstore-finder .container{
+    color: rgb(243,233,210);
     text-align: center;
     padding: 200px 12px;
 }
 
 #caracteristicas{
-    background-color: rgb(30, 30, 30);
-    color: white;
+    background-color: rgb(36, 99,85);
+    color: rgb(243,233,210);
     text-align: center;
 }
 
@@ -169,11 +177,12 @@ header a:hover{
 }
 
 #app .container{
+    background-color: rgb(17,75,95);
     padding: 100px 0px;
 }
 
 #app h2{
-    color: black;
+    color: rgb(243,233,210);
     margin-top: 0;
     font-size: 3.2em;
 }
@@ -214,13 +223,13 @@ header a:hover{
 }
 
 footer{
-    background-color: rgb(230,230,230);
+    background-color: rgb(36, 99,85);
 }
 
 footer p{
     margin: 0;
     padding: 12px;
-    color: rgb(100,100,100);
+    color: rgb(243,233,210);
 }
 
 footer .container{
